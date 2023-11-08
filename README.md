@@ -9,8 +9,6 @@
 - [Getting Started](#getting-started)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -79,14 +77,6 @@ To get started with the project, follow these steps:
 ## API EndPoints
 
 ![Screenshot of the Web Interface](https://github.com/mdjannatulnayem/ReconSolarShieldInitiativeSpaceApps23/blob/main/project_images/p5.png)
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to the project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
